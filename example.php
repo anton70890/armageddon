@@ -58,7 +58,7 @@ class nikeAjax {
 						break;
 					case 7:
 						$img = "/controllers/maps/images/diagram.jpg";	
-                         $img1 = "/controllers/maps/images/diagram_selected.jpg";							
+                                                $img1 = "/controllers/maps/images/diagram_selected.jpg";							
 						$img2 = "/controllers/maps/images/diagram_selected_current.jpg";							
 						break;
 					case 8:
